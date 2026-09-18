@@ -1,0 +1,17 @@
+# Local notes, generated reports, and design exports
+DJ_AGENT_DESIGN*.md
+DJ_AGENT_DESIGN*.html
+Z103_*.md
+generate_z103_report.py
+render_design_html.py
+sample_remote_naming.py
+
+# Python build/runtime artifacts
+__pycache__/
+*.py[cod]
+
+# Local-only library integrations; do not publish these files
+SMB_SHARE_ACCESS.md
+TRACK_LIBRARY.md
+smb_share_access.py
+match_tracks.py
